@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+.search-btn{
+	width: -webkit-fill-available;
+}
+
+.navbar{
+	background-color: #1DB954;
+}
+
+.hide {
+  display: none;
+}
+
+.myDIV:hover + .hide {
+  display: block;
+  color: #1DB954;
+}
